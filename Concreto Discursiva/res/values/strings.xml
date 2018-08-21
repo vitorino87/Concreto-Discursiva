@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Concreto Discursiva</string>
+    <string name="q0">[Peças Estruturais] Até qual relação é considerados da mesma ordem de grandeza?</string>
+<string name="q0a">Resp.: 1:5</string>
+<string name="q1">[Peças Estruturais] A ordem de grandeza L1 = L2 = L3 é referente a qual peça?</string>
+<string name="q1a">Resp.: bloco</string>
+<string name="q2">[Peças Estruturais] A ordem de grandeza L1 = L2 > L3 é referente a qual peça?</string>
+<string name="q2a">Resp.: folha ou casca</string>
+<string name="q3">[Peças Estruturais] A ordem de grandeza L1 = L2 &lt; L3 é referente a qual peça?</string>
+<string name="q3a">Resp.: barra</string>
+<string name="q4">[Peças Estruturais] A ordem de grandeza L1 > L2 > L3 é referente a qual peça?</string>
+<string name="q4a">Resp.: barra de parede delgada</string>
+<string name="q5">[Peças Estruturais] Quando os três comprimentos característicos são da mesma ordem de grandeza, temos qual tipo de peça?</string>
+<string name="q5a">Resp.: barra</string>
+<string name="q6">[Peças Estruturais] Os esforços solicitantes das barras são estudadas por qual teoria?</string>
+<string name="q6a">Resp.: teoria da elasticidade</string>
+<string name="q7">[Peças Estruturais] Nas estruturas de concreto, os blocos podem ser dimensionados por qual teoria simplificada?</string>
+<string name="q7a">Resp.: teoria de bielas e tirantes</string>
+<string name="q8">[Peças Estruturais] Quando os dois comprimentos característicos são da mesma ordem de grandeza, maior que a ordem de grandeza do terceiro comprimentos característicos, temos qual tipo de peça?</string>
+<string name="q8a">Resp.: folhas</string>
+<string name="q9">[Peças Estruturais] A folha quando está com a superfície curva é designada como?</string>
+<string name="q9a">Resp.: casca</string>
+<string name="q10">[Peças Estruturais] A folha quando está com a superfície plana é designada como?</string>
+<string name="q10a">Resp.: chapa</string>
+<string name="q11">[Peças Estruturais] Essa peça tem dois comprimentos característicos da mesma ordem de grandeza, menor que a ordem de grandeza do terceiro comprimento característico, qual peça é essa?</string>
+<string name="q11a">Resp.: barra</string>
+<string name="q12">[Peças Estruturais] O estudo das barras e̿ feito pela _____________.</string>
+<string name="q12a">Resp.: resistência dos materiais</string>
+<string name="q13">[Peças Estruturais] Quando os três comprimentos característicos com ordens de grandeza diferentes entre si, temos qual tipo de peça?</string>
+<string name="q13a">Resp.: barras de parede delgada</string>
+<string name="q14">[Peças Estruturais] Quando não existem esforços de torção, as barras de parede delgada podem ser tratadas como se fossem barras maciças, pertencentes a qual categoria?</string>
+<string name="q14a">Resp.: barra</string>
+<string name="q15">[arranjos estruturais] Como primeira decomposição, a construção pode ser dividida em blocos, por meio de qual técnica?</string>
+<string name="q15a">Resp.: juntas de separação</string>
+<string name="q16">[arranjos estruturais] As juntas de separação são _____________ quando partes adjacentes ficam fisicamente separadas entre si, total ou parcialmente.</string>
+<string name="q16a">Resp.: juntas reais</string>
+<string name="q17">[arranjos estruturais] As juntas de separação são _____________ quando apenas delimitam diferentes partes de uma estrutura global, que serão analisadas independentemente umas das outras.</string>
+<string name="q17a">Resp.: virtuais</string>
+<string name="q18">[arranjos estruturais] As juntas reais em princi̿pio são _____________, mas as juntas virtuais costumam ser _____________.</string>
+<string name="q18a">Resp.: verticais, horizontais</string>
+<string name="q19">[arranjos estruturais] Nos edifi̿cios correntes, a estrutura em geral pode ser concebida como sendo formada por _____________ fami̿lias de elementos estruturais planos.</string>
+<string name="q19a">Resp.: três</string>
+<string name="q20">[arranjos estruturais] A fami̿lia de elementos estruturais planos _____________ e̿ formada pelos pisos da construção. Esses elementos são compostos pelas lajes e por vigas de sustentação. </string>
+<string name="q20a">Resp.: horizontais</string>
+<string name="q21">[arranjos estruturais] As ações mais importantes para esses elementos são os pesos pro̿prios da estrutura e dos demais elementos construtivos e as cargas acidentais de utilização da construção, todas elas agindo _____________. No caso das lajes, essas ações agem _____________ ao seu plano me̿dio.</string>
+<string name="q21a">Resp.: verticalmente, perpendicularmente</string>
+<string name="q22">[arranjos estruturais] Duas fami̿lias de elementos estruturais planos são constitui̿das por po̿rticos verticais, formados por _____________.</string>
+<string name="q22a">Resp.: vigas, pilares</string>
+<string name="q23">[arranjos estruturais] Para as duas fami̿lias de elementos estruturais planos, as ações principais são representadas por cargas _____________ contidas no pro̿prio plano me̿dio dos elementos. </string>
+<string name="q23a">Resp.: verticais, horizontais</string>
+<string name="q24">[arranjos estruturais] As ações atuantes mais importantes são os _____________ da estrutura e dos demais elementos construtivos, nelas incluindo‿se as reações de apoio das peças da fami̿lia de elementos planos horizontais, ale̿m da ação do _____________.</string>
+<string name="q24a">Resp.: pesos pro̿prios, vento</string>
+<string name="q25">[arranjos estruturais] Observa‿se que a decomposição artificial da estrutura tridimensional em elementos estruturais planos obriga que certas peças sejam consideradas como pertencentes simultaneamente a dois diferentes elementos planos. Esse e̿ o caso das _____________ que pertencem simultaneamente à estrutura dos pisos, sujeita a cargas verticais, e à estrutura dos po̿rticos verticais, sujeitos tambe̿m à ação do vento. De modo ana̿logo, certos _____________ da estrutura podem pertencer simultaneamente a dois diferentes po̿rticos verticais.</string>
+<string name="q25a">Resp.: vigas, pilares</string>
+<string name="q26">[arranjos estruturais] O vigamento do piso tambe̿m pode ser tratado de modo simplista, considerando‿se condições simplificadas de vinculação. Esse mesmo tipo de simplificação pode ser admitido para as superestruturas de _____________ de pequeno porte.</string>
+<string name="q26a">Resp.: pontes</string>
+<string name="q27">[arranjos estruturais] Nas pontes de grande porte, os arranjos estruturais modernamente empregados tendem a ser concebidos com elementos de _____________.</string>
+<string name="q27a">Resp.: maior complexidade</string>
+<string name="q28">[Sistemas estruturais básicos] Complete: Para realizar a ana̿lise estrutural, o arranjo construtivo de uma estrutura e̿ imaginado como sendo constitui̿do por um conjunto de elementos estruturais mais ou menos _____________, aos quais são aplicadas as ações que atuam na construção e cujos efeitos servem para o dimensionamento das diferentes partes dessa estrutura.</string>
+<string name="q28a">Resp.: complexos</string>
+<string name="q29">[Sistemas estruturais básicos] Nos primo̿rdios da Engenharia de Estruturas qual tipo de sistema estrutural predominava?</string>
+<string name="q29a">Resp.: isosta̿ticos</string>
+<string name="q30">[Sistemas estruturais básicos] Os processos iterativos de cálculos, como o método de Cross, permitiram o empregado de qual tipo de sistema estrutural?</string>
+<string name="q30a">Resp.: hiperestáticos de barras retas</string>
+<string name="q31">[Sistemas estruturais básicos] Os sistemas hiperesta̿ticos de barras curvas eram analisados por processos de ca̿lculo baseados em qual método de energia?</string>
+<string name="q31a">Resp.: deformação.</string>
+<string name="q32">[CARGAS NAS LAJES] Complete: Para se atestar a qualidade de um projeto estrutural não basta verificar a correção dos cálculos. O bom projeto é aquele que apresenta a correta _____________. Esse talvez seja o maior problema do calculista de estrutura, e esse impasse não pode ser resolvido pelo computador, porque exige raciocínio.</string>
+<string name="q32a">Resp.: avaliação das cargas</string>
+<string name="q33">[CARGAS NAS LAJES] Qual é a primeira providência a ser tomada para o levantamento das cargas que atuarão sobre a laje a ser calculada? É estabelecer qual será a _____________ que terá a edificação.</string>
+<string name="q33a">Resp.: utilização</string>
+<string name="q34">[CARGAS NAS LAJES] A precisão de uma medida e o adequado conceito do emprego dessa medida no cálculo de uma estrutura é que garantem a estabilidade de uma obra, evitando seu malogro. Contudo, erros existem. Alguns são facilmente constatáveis quando se compara a medida de projeto com a obtida no canteiro de obra. Trata-se do chamado erro espontâneo ou absoluto, na maioria das vezes com consequências imediatas, como o não fechamento de áreas porque a medida de projeto não confere com a obtida no local, por erro de quem fez a medição. O erro _____________ é geralmente grosseiro e se configura perigoso quando se torna sistemático.</string>
+<string name="q34a">Resp.: absoluto</string>
+<string name="q35">[CARGAS NAS LAJES] O erro sistemático das cargas nas lajes ocorre quase sempre em três circunstâncias. Quais? (IO, IAI, IMM)</string>
+<string name="q35a">Resp.: imperfeição do operador, imperfeição do aparelho/instrumento, imperfeição do método de medida</string>
+<string name="q36">[CARGAS NAS LAJES] A _____________ existe quando o indivíduo não está devidamente qualificado para efetuar medidas de precisão.</string>
+<string name="q36a">Resp.: imperfeição do operador</string>
+<string name="q37">[CARGAS NAS LAJES] Com relação ao _____________, deve ser dada preferência aos métodos que permitam verificar com facilidade o fechamento das contas e a correção do resultado.</string>
+<string name="q37a">Resp.: método de medição</string>
+<string name="q38">[CARGAS NAS LAJES] Existem diferentes tipos de lajes que são empregadas nas obras de um modo geral, quais são as lajes que são classificadas quanto à sua composição? (LM, LN, LPM)</string>
+<string name="q38a">Resp.: laje maciça, laje nervurada, laje pré-moldada</string>
+<string name="q39">[CARGAS NAS LAJES] Existem diferentes tipos de lajes que são empregadas nas obras de um modo geral, quais são as lajes que são classificadas quanto ao tipo de apoio? (LSA, LPE, LE)</string>
+<string name="q39a">Resp.: laje simplesmente apoiada, laje parcialmente engastada, laje engastada</string>
+<string name="q40">[CARGAS NAS LAJES] Complete: A laje tem uma espessura _____________ em relação às outras duas dimensões, perpendiculares entre si quando medidas horizontalmente.</string>
+<string name="q40a">Resp.: pequena</string>
+<string name="q41">[CARGAS NAS LAJES] Complete: As lajes se apoiam em vigas, que por sua vez se apoiam em pilares que transmitem as cargas às suas fundações. As lajes têm como função receber as cargas _____________ que atuam na estrutura, transmitindo-as para os respectivos apoios, que basicamente são vigas localizadas em suas bordas. A sustentação da laje nas bordas pode se dar de duas formas: simplesmente apoiada sobre a alvenaria no respaldo da parede ou _____________ pelas bordas.</string>
+<string name="q41a">Resp.: verticais, engastada</string>
+    
+    
+</resources>
